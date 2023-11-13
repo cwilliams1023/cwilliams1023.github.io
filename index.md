@@ -6,7 +6,7 @@ layout: default
 
 _In this project, our task involves analyzing products, pricing, transactions, and more for a large, multinational corporation that operates a chain of retail and grocery stores using the Python._
 
-<img src="https://www.rd.com/wp-content/uploads/2017/09/00_groceryshopping_This-is-the-Absolute-Worst-Day-to-Shop-for-Your-Thanksgiving-Groceries_299082896_wavebreakmedia.jpg?resize=1024%2C683" width="120" height="100" align="middle">
+<img src="https://www.rd.com/wp-content/uploads/2017/09/00_groceryshopping_This-is-the-Absolute-Worst-Day-to-Shop-for-Your-Thanksgiving-Groceries_299082896_wavebreakmedia.jpg?resize=1024%2C683">
 
 [View Project](https://github.com/cwilliams1023/MavenMegaMart)
 
