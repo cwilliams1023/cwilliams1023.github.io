@@ -6,8 +6,20 @@ layout: default
 
 _In this project, our task involves analyzing products, pricing, transactions, and more for a large, multinational corporation that operates a chain of retail and grocery stores using the Python._
 
+<picture>
+  <source srcset="super_market.jpeg" media="(orientation: portrait)" />
+  <img src="super_market.jpeg" alt="" />
+</picture>
+
 [View Project](https://github.com/cwilliams1023/MavenMegaMart)
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+# Bank Trends Analysis
+
+_In this project, primary objective of this project is to delve into customer transactions and identify trends that may impact regional economies and financial systems. By combining data cleaning techniques in Python and utilizing SQL queries on a set of interconnected tables, we aim to gain a comprehensive understanding of how customer transactions vary across different regions and the possible implications on the banking sector._
+
+
+[View Project](https://github.com/cwilliams1023/Analyzing_Bank_Trends)
+
 
 [Link to another page](./another-page.html).
 
