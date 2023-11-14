@@ -14,19 +14,7 @@ _In this project, our task involves analyzing products, pricing, transactions, a
 
 _In this project, primary objective of this project is to delve into customer transactions and identify trends that may impact regional economies and financial systems. By combining data cleaning techniques in Python and utilizing SQL queries on a set of interconnected tables, we aim to gain a comprehensive understanding of how customer transactions vary across different regions and the possible implications on the banking sector._
 
+<img src="https://carnation-inc.com/cdn/shop/articles/Cash_Handling.jpg?v=1580735946">
 
 [View Project](https://github.com/cwilliams1023/Analyzing_Bank_Trends)
-
-
-[Link to another page](./another-page.html).
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
